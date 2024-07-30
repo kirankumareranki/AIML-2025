@@ -9,8 +9,8 @@ Repository for student projects and assignments
 1. [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 1. [Lab 07](): Implement Support Vector Machine using Breast Cancer Data
 1. [Lab 08](): Implement Decision Tree Classifier using Lending Club Data
-2. [Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
-3. [Lab 10](): Implement K-Means Clustering using Iris Data
+1. [Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
+1. [Lab 10](): Implement K-Means Clustering using Iris Data
 
 
 # Lab Code Notebooks
