@@ -2,7 +2,7 @@
 Repository for student projects and assignments
 # Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
-1. [Lab 02](): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
+1. [Lab 02](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 1. [Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 1. [Lab 04](): Implement Linear Regression using Boston Housing Data
 1. [Lab 05](): Implement Logistic Regression using Titanic Ship Data
