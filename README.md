@@ -14,7 +14,7 @@
 
 # Lab Code Notebooks
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2025/blob/main/Lab01-AIML.ipynb)
-2. [Lab 02]()
+2. [Lab 02](https://github.com/kirankumareranki/AIML-2025/blob/main/Lab02-AIML.ipynb)
 3. [Lab 03]()
 4. [Lab 04]()
 5. [Lab 05]()
