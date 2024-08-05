@@ -1,5 +1,5 @@
 # AIML-2024-25
-# Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
+# Artificial Intelligence and Machine Learning Lab Instruction Sheets
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
 1. [Lab 02](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 1. [Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
